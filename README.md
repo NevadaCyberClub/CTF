@@ -2,7 +2,7 @@
 
 #### Cryptography
 ###### Beginner
-[Basic Crypto 1](./tree/master/Cryptography/basicCrypto1.txt)
+[Basic Crypto 1](./Cryptography/basicCrypto1.txt)
 ###### Intermediate
 ###### Advanced
 
