@@ -35,16 +35,32 @@
 
 ###### Beginner
 
+* [Cracking 1](./PasswordCracking/md5Crack.hash)
+
+* [Cracking 2](./PasswordCracking/sha1Crack.hash)
+
+* [Cracking 3](./PasswordCracking/identifyMe.hash)
+
 ###### Intermediate
+
+* [Cracking 4](./PasswordCracking/saltyHashes.hash)
+
 
 ###### Advanced
 
+* [Cracking 5](./PasswordCracking/WhatTheHash.hash)
+
+* [Cracking 6](./PasswordCracking/breakMe.zip)
+
+* [Cracking 7](./PasswordCracking/brute.zip)
 
 #### Scripting
 
 ###### Beginner
 
 ###### Intermediate
+
+* [Medium 1](./Scripting/Strange_Looking.doll.gz)
 
 ###### Advanced
 
@@ -53,8 +69,12 @@
 
 ###### Beginner
 
+* [Easy 1](./Steg/Steg1.png)
+
 ###### Intermediate
 
 ###### Advanced
+
+* [Hard 1](./Steg/StegIMPOSSIBLE.wav)
 
 
