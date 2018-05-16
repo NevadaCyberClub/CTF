@@ -28,8 +28,17 @@
 
 * [Morse 2](./Cryptography/morse64.wav)
 
+* [Medium 2](./Cryptography/CryptoMed2.png)
+
+* [Medium 3](./Cryptography/CryptoMed3.png)
+
+* [Medium 4](./Cryptography/CryptoMed4.txt)
+
 ###### Advanced
 
+* [Hard 1](./Cryptography/CryptoHard1.txt)
+
+* [Hard 2](./Cryptography/CryptoHard2.txt)
 
 #### Password Cracking
 
