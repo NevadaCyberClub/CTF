@@ -3,3 +3,4 @@ What Operating System do they use?
 When were they born?
 Where do they currently live?
 How many packages do they maintain?
+What is his user name for his @linuxdeepin.com email?
