@@ -1,0 +1,17 @@
+Steghide Man Page
+
+What's the option to embed?
+
+What's the option to extract?
+
+How to specify file to embed inside?
+
+How to specify data you're hiding?
+
+How to specify output file?
+
+Compression and no compression?
+
+Give an example embedding flag.txt in test.png
+
+Give an example of extracting from test.png

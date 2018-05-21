@@ -1,0 +1,7 @@
+What is the compression option?
+What is the port binding option?
+For port binding is it local:remote or remote:local?
+Port Option?
+Tunnel Option?
+How would u connect as user Tom to server vacation.notin.work using port 1337?
+Now try connecting to nxlogin.engr.unr.edu using your netid.

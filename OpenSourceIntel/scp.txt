@@ -1,0 +1,7 @@
+Recursive option?
+port option?
+quiet option?
+preserve time on original files?
+
+Copy something local to Tom's home dir on vacation.notin.work
+Copy something from Tom's home dir on vacation.notin.work to local
